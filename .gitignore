@@ -1,0 +1,10 @@
+# Настройки редактора и окружения — личные, на GitHub не нужны
+.vscode/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Данные с Kaggle не кладём в репозиторий: в README ссылка, откуда скачать
+*.csv
+data/
